@@ -1,0 +1,25 @@
+h1, h2, h3, p, a {
+	font-family: sans-serif;
+}
+
+td, tr {
+	padding: 10px;
+	border: solid 1px;
+}
+
+.wiki {
+	width: 30%;
+}
+
+.wiki p {
+	margin: 10px;
+}
+
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+sup a {
+	text-decoration: none;
+}
