@@ -1,4 +1,4 @@
-h1, h2, h3, p, a {
+h1, h2, h3, p, a, td, tr {
 	font-family: sans-serif;
 }
 
@@ -22,4 +22,8 @@ h1 a {
 
 sup a {
 	text-decoration: none;
+}
+
+body {
+	background-color: #E5EBFF;
 }
